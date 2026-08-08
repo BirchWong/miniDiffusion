@@ -1,5 +1,9 @@
 # miniDiffusion
 
+This project trains a Flow Matching / DDPM text-to-image model from scratch.
+
+All core algorithm implementations are located in the **`src`** folder for easy reading and learning.
+
 ## Explanation of Basic Principles
 
 ## Pre-trained Model Weights
@@ -12,13 +16,15 @@ FlowMatching Unet : https://huggingface.co/BirchWong/miniDiffusion/resolve/main/
 
 
 ## Results
-![miniGPT training results](https://cdn.jsdelivr.net/gh/BirchWong/miniDiffusion@main/DDPM_output/DDPM_generation.png)
+
+![miniGPT training results](https://cdn.jsdelivr.net/gh/BirchWong/images@master/miniDiffusion-result.png)
+
 ---
 
-    prompts = ["a girl with long wavy white hair, a light blue T-shirt",
-               "a girl with long straight black hair, a light green hoodie",
-               "a girl with short wavy blonde hair, a brown jacket",
-               "a girl with short straight brown hair, a black hoodie"] * 4
+    prompts = ["a girl with long straight brown hair, a light blue hoodie",
+               "a girl with long wavy black hair, a light blue T-shirt",
+               "a girl with short wavy brown hair, a light red hoodie",
+               "a girl with short straight blonde hair, a brown jacket"] * 4
 
 ## Quick Inference (Zero Setup with Colab)
 
