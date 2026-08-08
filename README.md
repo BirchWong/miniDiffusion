@@ -8,6 +8,10 @@ All core algorithm implementations are located in the **`src`** folder for easy 
 
 ## Explanation of Basic Principles
 
+## Quick Inference (Zero Setup with Colab)
+
+Colab: https://colab.research.google.com/drive/1YScHcc0aMKCND1wGzgth7nmNbdJi8KvZ?usp=sharing
+
 ## Pre-trained Model Weights
 
 VAE : https://huggingface.co/BirchWong/miniDiffusion/resolve/main/VAE_64.pth
@@ -27,10 +31,7 @@ FlowMatching Unet : https://huggingface.co/BirchWong/miniDiffusion/resolve/main/
                "a girl with long wavy black hair, a light blue T-shirt",
                "a girl with short wavy brown hair, a light red hoodie",
                "a girl with short straight blonde hair, a brown jacket"] * 4
-
-## Quick Inference (Zero Setup with Colab)
-
-Colab: https://colab.research.google.com/drive/1YScHcc0aMKCND1wGzgth7nmNbdJi8KvZ?usp=sharing
+               
 
 ## Training
 
