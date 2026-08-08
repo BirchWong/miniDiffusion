@@ -2,6 +2,8 @@
 
 This project trains a Flow Matching / DDPM text-to-image model from scratch.
 
+The training dataset consists of 10,000 image-text pairs.
+
 All core algorithm implementations are located in the **`src`** folder for easy reading and learning.
 
 ## Explanation of Basic Principles
