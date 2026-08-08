@@ -1,0 +1,36 @@
+{
+    "hair length": ["long", "short"],
+    "hair texture": ["straight", "wavy"],
+    "hair color": ["blonde", "black", "white", "brown"],
+    "hair structure": ["hair"],
+    "top": [
+        "light blue T-shirt",
+        "light green T-shirt",
+        "light yellow T-shirt",
+
+        "white sweater",
+        "brown sweater",
+        "light blue sweater",
+        "light green sweater",
+        "light yellow sweater",
+
+        "white hoodie",
+        "brown hoodie",
+        "black hoodie",
+        "light blue hoodie",
+        "light green hoodie",
+        "light yellow hoodie",
+        "light red hoodie",
+        "blue hoodie",
+        "green hoodie",
+        "yellow hoodie",
+        "red hoodie",
+
+        "brown jacket",
+        "black jacket",
+        "blue jacket",
+        "green jacket",
+        "yellow jacket",
+        "red jacket"
+    ]
+}
