@@ -28,9 +28,9 @@ FlowMatching Unet : https://huggingface.co/BirchWong/miniDiffusion/resolve/main/
 ---
 
     prompts = ["a girl with long straight brown hair, a light blue hoodie",
-               "a girl with long wavy black hair, a light blue T-shirt",
-               "a girl with short wavy brown hair, a light red hoodie",
-               "a girl with short straight blonde hair, a brown jacket"] * 4
+               "a girl with short wavy blonde hair, a blue jacket",
+               "a girl with long wavy white hair, a light yellow T-shirt",
+               "a girl with long straight blonde hair, a light green sweater"] * 4
                
 
 ## Training
