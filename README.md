@@ -8,6 +8,10 @@ All core algorithm implementations are located in the **`src`** folder for easy 
 
 ## Explanation of Basic Principles
 
+### Flow Matching：
+bilibili : https://www.bilibili.com/video/BV1Wmu26FEwA/?share_source=copy_web&vd_source=2ce5fc590d6295912fe2a2acc28f2f04
+### DDPM：
+bilibili : https://www.bilibili.com/video/BV1YMum61EyC/?share_source=copy_web&vd_source=2ce5fc590d6295912fe2a2acc28f2f04
 ## Quick Inference (Zero Setup with Colab)
 
 Colab: https://colab.research.google.com/drive/1YScHcc0aMKCND1wGzgth7nmNbdJi8KvZ?usp=sharing
